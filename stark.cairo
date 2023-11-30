@@ -15,4 +15,4 @@ mod HelloStarknet {
     }
 
 }
-// need to checked
+//checked
